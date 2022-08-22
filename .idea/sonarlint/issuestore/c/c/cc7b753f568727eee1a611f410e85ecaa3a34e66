@@ -1,0 +1,15 @@
+
+hpython:S1192•"ODefine a constant instead of duplicating this literal "E://facebook//" 3 times.(¤øˆŸ
+Tpython:S57540"<Specify an exception class to catch or reraise the exception(ˆÊÉ·
+Tpython:S5754>"<Specify an exception class to catch or reraise the exception(ˆÊÉ·
+Bpython:S1481U"%Remove the unused local variable "r".(ûŒî£úÿÿÿÿ
+<python:S125…"Remove this commented out code.(½„Ô·ùÿÿÿÿ
+ppython:S117Œ"SRename this parameter "imgList" to match the regular expression ^[_a-z][a-z0-9_]*$.(œÆÖËýÿÿÿÿ
+upython:S117Ä"XRename this local variable "imgList" to match the regular expression ^[_a-z][a-z0-9_]*$.(úç °þÿÿÿÿ
+Jpython:S1481§",Remove the unused local variable "work_url".(à‡ÊÍûÿÿÿÿ
+Epython:S1481¦",Remove the unused local variable "contents".(õÆÈ™
+Fpython:S1481¥"-Remove the unused local variable "post_time".(´×ÏÇ
+<python:S125»"Remove this commented out code.(ØêÚÇýÿÿÿÿ
+<python:S125Å"Remove this commented out code.(ÖÔ˜—øÿÿÿÿ
+7python:S125Þ"Remove this commented out code.(´š™
+7python:S125á"Remove this commented out code.(¾¬Œ–
