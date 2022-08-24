@@ -16,6 +16,7 @@ import chromedriver_autoinstaller
 options = ChromeOptions()
 driver_path = chromedriver_autoinstaller.install()
 options.add_argument('log-level=3')
+# options.headless = True
 browser = webdriver.Chrome(options=options, executable_path=driver_path)
 
 # url地址

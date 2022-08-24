@@ -21,7 +21,7 @@ ca["goog:loggingPrefs"] = {"performance": "ALL"}
 options = ChromeOptions()
 # options.add_experimental_option('perfLoggingPrefs', {'enableNetwork': True})
 options.add_argument('log-level=3')
-
+# options.headless = True
 driver_path = chromedriver_autoinstaller.install()
 browser = webdriver.Chrome(options=options, executable_path=driver_path, desired_capabilities=ca)
 

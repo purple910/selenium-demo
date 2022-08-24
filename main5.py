@@ -2,6 +2,10 @@
     @Time           : 2022/8/19 10:55
     @Author         : fate
     @Description    : https://www.senate.gov/states/DE/intro.htm
+    https://blog.csdn.net/qq_36078992/article/details/110326518
+    https://blog.csdn.net/Al_shawn/article/details/101108665
+    https://blog.csdn.net/qq_51769081/article/details/121248542
+    https://cloud.tencent.com/developer/article/1786102
     @File           : main5.py
 """
 import time
@@ -69,6 +73,7 @@ if __name__ == '__main__':
         print(len(urlList))
 
         userList = []
+        # social-list
         for url in urlList:
             browser.get(url)
             time.sleep(2)
@@ -77,11 +82,21 @@ if __name__ == '__main__':
             user['url'] = url
             twitter = browser.find_elements(by=By.XPATH, value="//a[contains(@href,'https://twitter.com/')]")
             if twitter is not None and len(twitter) > 0:
-                user['twitter'] = twitter[0].get_attribute("href")
+                for item in twitter:
+                    if item.get_attribute("href").__contains__("?"):
+                        continue
+                    else:
+                        user['twitter'] = item.get_attribute("href")
+                        break
 
             facebook = browser.find_elements(by=By.XPATH, value="//a[contains(@href,'https://www.facebook.com/')]")
             if facebook is not None and len(facebook) > 0:
-                user['facebook'] = facebook[0].get_attribute("href")
+                for item in twitter:
+                    if item.get_attribute("href").__contains__("?"):
+                        continue
+                    else:
+                        user['facebook'] = facebook[0].get_attribute("href")
+                        break
 
             userList.append(user)
 
