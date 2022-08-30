@@ -24,10 +24,15 @@
 # os.makedirs("E://facebook//" + dirname, exist_ok=True)
 
 
-a= []
-a.append("aaa")
-a.append("bbb")
-a.append("ccc")
-a.append("aaa")
-a = list(set(a))
-print(len(a))
+# a= []
+# a.append("aaa")
+# a.append("bbb")
+# a.append("ccc")
+# a.append("aaa")
+# a = list(set(a))
+# print(len(a))
+
+a = 'aa'
+v = 12
+
+print({a, v})

@@ -1,457 +1,783 @@
 [
   {
     'url': 'https://www.shelby.senate.gov/',
+    'area': 'Alabama',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/S/S000320.jpg',
+    'name': 'Richard C. Shelby (R)',
     'twitter': 'https://twitter.com/SenShelby',
-    'facebook': 'https://www.facebook.com/50850514797'
+    'facebook': 'http://www.facebook.com/RichardShelby'
   },
   {
     'url': 'https://www.tuberville.senate.gov/',
+    'area': 'Alabama',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/T/T000278.jpg',
+    'name': 'Tommy Tuberville (R)',
     'twitter': 'https://twitter.com/sentuberville',
     'facebook': 'https://www.facebook.com/SenatorTuberville/'
   },
   {
     'url': 'http://www.murkowski.senate.gov/',
-    'twitter': 'https://twitter.com/hashtag/NationalFentanylPreventionandAwarenessDay?src=hash'
+    'area': 'Alaska',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/M/M001153.jpg',
+    'name': 'Lisa Murkowski (R)',
+    'twitter': 'https://twitter.com/lisamurkowski',
+    'facebook': 'https://www.facebook.com/pages/Lisa-Murkowski/25271170290'
   },
   {
     'url': 'http://www.sullivan.senate.gov/',
+    'area': 'Alaska',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/S/S001198.jpg',
+    'name': 'Dan Sullivan (R)',
     'twitter': 'https://twitter.com/SenDanSullivan',
     'facebook': 'https://www.facebook.com/SenDanSullivan'
   },
   {
     'url': 'https://www.sinema.senate.gov/',
+    'area': 'Arizona',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/S/S001191.jpg',
+    'name': 'Kyrsten Sinema (D)',
     'twitter': 'https://twitter.com/senatorsinema',
     'facebook': 'https://www.facebook.com/senatorsinema/'
   },
   {
     'url': 'https://www.kelly.senate.gov/',
+    'area': 'Arizona',
+    'img': 'https://www.senate.gov/states/graphics/117/KellyMark.png',
+    'name': 'Mark Kelly (D)',
     'twitter': 'https://twitter.com/SenMarkKelly',
     'facebook': 'https://www.facebook.com/SenMarkKelly'
   },
   {
     'url': 'https://www.boozman.senate.gov/',
-    'twitter': 'https://twitter.com/home?status=Please%20read%3A%20https%3A%2F%2Fwww%2Eboozman%2Esenate%2Egov%2Fpublic%2Findex%2Ecfm%2F2022%2F4%2Fboozman%2Dcolleagues%2Dintroduce%2Dlegislation%2Dblocking%2Dbiden%2Dfrom%2Ddeploying%2Dveterans%2Dresources%2Dto%2Dsouthern%2Dborder',
+    'area': 'Arkansas',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/B/B001236.jpg',
+    'name': 'John Boozman (R)',
+    'twitter': 'http://twitter.com/JohnBoozman',
     'facebook': 'https://www.facebook.com/JohnBoozman'
   },
   {
     'url': 'https://www.cotton.senate.gov/',
+    'area': 'Arkansas',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/C/C001095.jpg',
+    'name': 'Tom Cotton (R)',
     'twitter': 'https://twitter.com/SenTomCotton',
     'facebook': 'https://www.facebook.com/SenatorTomCotton'
   },
   {
     'url': 'https://www.feinstein.senate.gov/',
+    'area': 'California',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/F/F000062.jpg',
+    'name': 'Dianne Feinstein (D)',
     'twitter': 'https://twitter.com/senfeinstein',
     'facebook': 'https://www.facebook.com/SenatorFeinstein/'
   },
   {
     'url': 'https://www.padilla.senate.gov/',
+    'area': 'California',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/P/P000145.jpg',
+    'name': 'Alex Padilla (D)',
     'twitter': 'https://twitter.com/SenAlexPadilla/',
     'facebook': 'https://www.facebook.com/SenAlexPadilla/'
   },
   {
     'url': 'https://www.bennet.senate.gov/',
+    'area': 'Colorado',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/B/B001267.jpg',
+    'name': 'Michael F. Bennet (D)',
     'twitter': 'https://twitter.com/SenatorBennet',
     'facebook': 'https://www.facebook.com/senbennetco/'
   },
   {
     'url': 'https://www.hickenlooper.senate.gov/',
+    'area': 'Colorado',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/H/H000273.jpg',
+    'name': 'John W. Hickenlooper (D)',
     'twitter': 'https://twitter.com/senatorhick',
     'facebook': 'https://www.facebook.com/SenatorHick'
   },
   {
     'url': 'https://www.blumenthal.senate.gov/',
+    'area': 'Connecticut',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/B/B001277.jpg',
+    'name': 'Richard Blumenthal (D)',
     'twitter': 'https://twitter.com/SenBlumenthal',
     'facebook': 'https://www.facebook.com/SenBlumenthal'
   },
   {
     'url': 'https://www.murphy.senate.gov/',
-    'facebook': 'https://www.facebook.com/SenChrisMurphy'
+    'area': 'Connecticut',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/M/M001169.jpg',
+    'name': 'Christopher Murphy (D)'
   },
   {
-    'url': 'http://www.carper.senate.gov/'
+    'url': 'http://www.carper.senate.gov/',
+    'area': 'Delaware',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/C/C000174.jpg',
+    'name': 'Thomas R. Carper (D)',
+    'twitter': 'http://twitter.com/senatorcarper',
+    'facebook': 'http://www.facebook.com/tomcarper'
   },
   {
     'url': 'http://www.coons.senate.gov/',
+    'area': 'Delaware',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/C/C001088.jpg',
+    'name': 'Christopher A. Coons (D)',
     'twitter': 'https://twitter.com/ChrisCoons',
     'facebook': 'https://www.facebook.com/senatorchriscoons'
   },
   {
     'url': 'https://www.rubio.senate.gov/',
-    'twitter': 'https://twitter.com/SenRubioPress'
+    'area': 'Florida',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/R/R000595.jpg',
+    'name': 'Marco Rubio (R)',
+    'twitter': 'http://twitter.com/SenRubioPress',
+    'facebook': 'http://www.facebook.com/SenatorMarcoRubio'
   },
   {
     'url': 'https://www.rickscott.senate.gov/',
-    'twitter': 'https://twitter.com/SenRickScott',
-    'facebook': 'https://www.facebook.com/RickScottSenOffice/'
+    'area': 'Florida',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/S/S001217.jpg',
+    'name': 'Rick Scott (R)'
   },
   {
     'url': 'https://www.ossoff.senate.gov/',
-    'twitter': 'https://twitter.com/SenOssoff?ref_src=twsrc%5Etfw',
+    'area': 'Georgia',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/O/O000174.jpg',
+    'name': 'Jon Ossoff (D)',
+    'twitter': 'https://twitter.com/senossoff',
     'facebook': 'https://www.facebook.com/SenOssoff/'
   },
   {
     'url': 'https://www.warnock.senate.gov/',
+    'area': 'Georgia',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/W/W000790.jpg',
+    'name': 'Raphael G. Warnock (D)',
     'twitter': 'https://twitter.com/SenatorWarnock',
     'facebook': 'https://www.facebook.com/SenatorWarnock'
   },
   {
     'url': 'http://www.schatz.senate.gov/',
+    'area': 'Hawaii',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/S/S001194.jpg',
+    'name': 'Brian Schatz (D)',
     'twitter': 'https://twitter.com/SenBrianSchatz',
     'facebook': 'https://www.facebook.com/SenBrianSchatz'
   },
   {
     'url': 'http://www.hirono.senate.gov/',
-    'twitter': 'https://twitter.com/intent/tweet?in_reply_to=1561373308267798528'
+    'area': 'Hawaii',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/H/H001042.jpg',
+    'name': 'Mazie K. Hirono (D)',
+    'twitter': 'https://twitter.com/maziehirono',
+    'facebook': 'https://www.facebook.com/senatorhirono'
   },
   {
     'url': 'http://www.crapo.senate.gov/',
+    'area': 'Idaho',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/C/C000880.jpg',
+    'name': 'Mike Crapo (R)',
     'twitter': 'https://twitter.com/mikecrapo',
     'facebook': 'https://www.facebook.com/mikecrapo'
   },
   {
     'url': 'http://www.risch.senate.gov/',
-    'twitter': 'https://twitter.com/SenatorRisch'
+    'area': 'Idaho',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/R/R000584.jpg',
+    'name': 'James E. Risch (R)',
+    'twitter': 'https://twitter.com/SenatorRisch',
+    'facebook': 'http://www.facebook.com/senatorjimrisch'
   },
   {
-    'url': 'http://www.durbin.senate.gov/'
+    'url': 'http://www.durbin.senate.gov/',
+    'area': 'Illinois',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/D/D000563.jpg',
+    'name': 'Richard J. Durbin (D)',
+    'twitter': 'https://www.twitter.com/SenatorDurbin',
+    'facebook': 'https://www.facebook.com/SenatorDurbin'
   },
   {
     'url': 'http://www.duckworth.senate.gov/',
-    'twitter': 'https://twitter.com/SenDuckworth',
+    'area': 'Illinois',
+    'img': 'https://www.senate.gov/states/graphics/115/Duckworth_Tammy.jpg',
+    'name': 'Tammy Duckworth (D)',
+    'twitter': 'https://www.twitter.com/SenDuckworth',
     'facebook': 'https://www.facebook.com/SenDuckworth'
   },
   {
-    'url': 'http://www.young.senate.gov/'
+    'url': 'http://www.young.senate.gov/',
+    'area': 'Indiana',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/Y/Y000064.jpg',
+    'name': 'Todd Young (R)',
+    'twitter': 'https://twitter.com/sentoddyoung',
+    'facebook': 'https://www.facebook.com/SenatorToddYoung'
   },
   {
     'url': 'https://www.braun.senate.gov/',
+    'area': 'Indiana',
+    'img': 'https://www.senate.gov/states/graphics/116/BraunMike.jpg',
+    'name': 'Mike Braun (R)',
     'twitter': 'https://twitter.com/SenatorBraun',
     'facebook': 'https://www.facebook.com/2054764874600948'
   },
   {
     'url': 'http://www.grassley.senate.gov/',
+    'area': 'Iowa',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/G/G000386.jpg',
+    'name': 'Chuck Grassley (R)',
     'twitter': 'https://twitter.com/chuckgrassley',
     'facebook': 'https://www.facebook.com/grassley'
   },
   {
     'url': 'http://www.ernst.senate.gov/',
+    'area': 'Iowa',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/E/E000295.jpg',
+    'name': 'Joni Ernst (R)',
     'twitter': 'https://twitter.com/SenJoniErnst',
     'facebook': 'https://www.facebook.com/senjoniernst'
   },
   {
-    'url': 'https://www.moran.senate.gov/'
+    'url': 'https://www.moran.senate.gov/',
+    'area': 'Kansas',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/M/M000934.jpg',
+    'name': 'Jerry Moran (R)',
+    'twitter': 'http://www.twitter.com/jerrymoran',
+    'facebook': 'http://www.facebook.com/jerrymoran'
   },
   {
     'url': 'https://www.marshall.senate.gov/',
+    'area': 'Kansas',
+    'img': 'https://www.senate.gov/states/graphics/117/marshall-roger.png',
+    'name': 'Roger Marshall (R)',
     'twitter': 'https://twitter.com/RogerMarshallMD',
     'facebook': 'https://www.facebook.com/RogerMarshallMD'
   },
   {
     'url': 'https://www.mcconnell.senate.gov/',
-    'facebook': 'https://www.facebook.com/'
+    'area': 'Kentucky',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/M/M000355.jpg',
+    'name': 'Mitch McConnell (R)',
+    'twitter': 'http://twitter.com/McConnellPress',
+    'facebook': 'http://www.facebook.com/mitchmcconnell'
   },
   {
     'url': 'https://www.paul.senate.gov/',
+    'area': 'Kentucky',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/P/P000603.jpg',
+    'name': 'Rand Paul (R)',
     'twitter': 'https://twitter.com/senRandPaul',
     'facebook': 'https://www.facebook.com/senatorrandpaul'
   },
   {
     'url': 'http://www.cassidy.senate.gov/',
+    'area': 'Louisiana',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/C/C001075.jpg',
+    'name': 'Bill Cassidy (R)',
     'twitter': 'https://twitter.com/SenBillCassidy',
     'facebook': 'https://www.facebook.com/SenBillCassidy/'
   },
   {
     'url': 'http://www.kennedy.senate.gov/',
+    'area': 'Louisiana',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/K/K000393.jpg',
+    'name': 'John Kennedy (R)',
     'twitter': 'https://twitter.com/SenJohnKennedy',
     'facebook': 'https://www.facebook.com/SenatorJohnKennedy/'
   },
   {
     'url': 'http://www.collins.senate.gov/',
+    'area': 'Maine',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/C/C001035.jpg',
+    'name': 'Susan M. Collins (R)',
     'twitter': 'https://twitter.com/SenatorCollins',
     'facebook': 'https://www.facebook.com/susancollins'
   },
   {
     'url': 'http://www.king.senate.gov/',
+    'area': 'Maine',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/K/K000383.jpg',
+    'name': 'Angus S. King, Jr. (I)',
     'twitter': 'https://twitter.com/SenAngusKing',
     'facebook': 'https://www.facebook.com/SenatorAngusSKingJr'
   },
   {
     'url': 'http://www.cardin.senate.gov/',
+    'area': 'Maryland',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/C/C000141.jpg',
+    'name': 'Benjamin L. Cardin (D)',
     'twitter': 'https://twitter.com/potus',
     'facebook': 'https://www.facebook.com/senatorbencardin'
   },
   {
-    'url': 'http://www.vanhollen.senate.gov/'
+    'url': 'http://www.vanhollen.senate.gov/',
+    'area': 'Maryland',
+    'img': 'https://www.senate.gov/states/graphics/115/van_hollen_1_10_state.jpg',
+    'name': 'Chris Van Hollen (D)',
+    'twitter': 'https://twitter.com/ChrisVanHollen',
+    'facebook': 'https://www.facebook.com/chrisvanhollen/'
   },
   {
     'url': 'http://www.warren.senate.gov/',
-    'twitter': 'https://twitter.com/hashtag/CancelStudentDebt?src=hash'
+    'area': 'Massachusetts',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/W/W000817.jpg',
+    'name': 'Elizabeth Warren (D)',
+    'twitter': 'https://www.twitter.com/SenWarren',
+    'facebook': 'https://www.facebook.com/senatorelizabethwarren'
   },
   {
     'url': 'http://www.markey.senate.gov/',
+    'area': 'Massachusetts',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/M/M000133.jpg',
+    'name': 'Edward J. Markey (D)',
     'twitter': 'https://twitter.com/SenMarkey',
     'facebook': 'https://www.facebook.com/EdJMarkey'
   },
   {
     'url': 'http://www.stabenow.senate.gov/',
+    'area': 'Michigan',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/S/S000770.jpg',
+    'name': 'Debbie Stabenow (D)',
     'twitter': 'https://twitter.com/SenStabenow/',
     'facebook': 'https://www.facebook.com/senatorstabenow'
   },
   {
     'url': 'http://www.peters.senate.gov/',
+    'area': 'Michigan',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/P/P000595.jpg',
+    'name': 'Gary C. Peters (D)',
     'twitter': 'https://twitter.com/SenGaryPeters',
     'facebook': 'https://www.facebook.com/SenGaryPeters'
   },
   {
     'url': 'http://www.klobuchar.senate.gov/',
+    'area': 'Minnesota',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/K/K000367.jpg',
+    'name': 'Amy Klobuchar (D)',
     'twitter': 'https://twitter.com/SenAmyKlobuchar'
   },
   {
     'url': 'https://www.smith.senate.gov/',
+    'area': 'Minnesota',
+    'img': 'https://www.senate.gov/states/MN/graphics/Smith_Tina_state.jpg',
+    'name': 'Tina Smith (D)',
     'twitter': 'https://twitter.com/SenTinaSmith',
     'facebook': 'https://www.facebook.com/USSenTinaSmith/'
   },
   {
     'url': 'http://www.wicker.senate.gov/',
-    'twitter': 'https://twitter.com/SenatorWicker'
+    'area': 'Mississippi',
+    'img': 'https://www.senate.gov/states/MS/graphics/WickerRoger.jpg',
+    'name': 'Roger F. Wicker (R)',
+    'twitter': 'https://twitter.com/SenatorWicker',
+    'facebook': 'http://www.facebook.com/SenatorWicker'
   },
   {
     'url': 'https://www.hydesmith.senate.gov/',
+    'area': 'Mississippi',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/H/H001079.jpg',
+    'name': 'Cindy Hyde-Smith (R)',
     'twitter': 'https://twitter.com/SenHydeSmith',
     'facebook': 'https://www.facebook.com/356016438218393'
   },
   {
     'url': 'http://www.blunt.senate.gov/',
+    'area': 'Missouri',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/B/B000575.jpg',
+    'name': 'Roy Blunt (R)',
     'twitter': 'https://twitter.com/RoyBlunt',
     'facebook': 'https://www.facebook.com/SenatorBlunt'
   },
   {
     'url': 'https://www.hawley.senate.gov/',
+    'area': 'Missouri',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/H/H001089.jpg',
+    'name': 'Josh Hawley (R)',
     'twitter': 'https://twitter.com/SenHawleyPress',
     'facebook': 'https://www.facebook.com/SenatorHawley/'
   },
   {
     'url': 'http://www.tester.senate.gov/',
+    'area': 'Montana',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/T/T000464.jpg',
+    'name': 'Jon Tester (D)',
     'twitter': 'https://twitter.com/SenatorTester',
     'facebook': 'https://www.facebook.com/senatortester'
   },
   {
     'url': 'http://www.daines.senate.gov/',
-    'facebook': 'https://www.facebook.com/SteveDainesMT'
+    'area': 'Montana',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/D/D000618.jpg',
+    'name': 'Steve Daines (R)'
   },
   {
     'url': 'http://www.fischer.senate.gov/',
+    'area': 'Nebraska',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/F/F000463.jpg',
+    'name': 'Deb Fischer (R)',
     'twitter': 'https://twitter.com/SenatorFischer',
     'facebook': 'https://www.facebook.com/senatordebfischer'
   },
   {
     'url': 'http://www.sasse.senate.gov/',
+    'area': 'Nebraska',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/S/S001197.jpg',
+    'name': 'Ben Sasse (R)',
     'twitter': 'https://twitter.com/SenSasse',
     'facebook': 'https://www.facebook.com/SenatorSasse'
   },
   {
     'url': 'http://www.cortezmasto.senate.gov/',
-    'twitter': 'https://twitter.com/SenCortezMasto'
+    'area': 'Nevada',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/C/C001113.jpg',
+    'name': 'Catherine Cortez Masto (D)',
+    'twitter': 'https://twitter.com/sencortezmasto',
+    'facebook': 'https://www.facebook.com/SenatorCortezMasto/'
   },
   {
     'url': 'https://www.rosen.senate.gov/',
+    'area': 'Nevada',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/R/R000608.jpg',
+    'name': 'Jacky Rosen (D)',
     'twitter': 'https://twitter.com/SenJackyRosen',
     'facebook': 'https://www.facebook.com/SenJackyRosen/'
   },
   {
     'url': 'http://www.shaheen.senate.gov/',
-    'twitter': 'https://twitter.com/SenatorShaheen/status/1561397718903169025'
+    'area': 'New Hampshire',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/S/S001181.jpg',
+    'name': 'Jeanne Shaheen (D)',
+    'twitter': 'https://twitter.com/SenatorShaheen',
+    'facebook': 'https://www.facebook.com/SenatorShaheen'
   },
   {
     'url': 'http://www.hassan.senate.gov/',
+    'area': 'New Hampshire',
+    'img': 'https://www.senate.gov/states/graphics/115/Hassan_Maggie.jpg',
+    'name': 'Margaret Wood Hassan (D)',
     'twitter': 'https://twitter.com/SenatorHassan',
     'facebook': 'https://www.facebook.com/SenatorHassan'
   },
   {
     'url': 'http://www.menendez.senate.gov/',
+    'area': 'New Jersey',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/M/M000639.jpg',
+    'name': 'Robert Menendez (D)',
     'twitter': 'https://twitter.com/SenatorMenendez',
     'facebook': 'https://www.facebook.com/senatormenendez'
   },
   {
     'url': 'http://www.booker.senate.gov/',
+    'area': 'New Jersey',
+    'img': 'https://www.senate.gov/states/graphics/113/Booker_Cory.jpg',
+    'name': 'Cory A. Booker (D)',
     'twitter': 'https://twitter.com/senbooker',
     'facebook': 'https://www.facebook.com/SenatorCoryBooker'
   },
   {
     'url': 'https://www.heinrich.senate.gov/',
+    'area': 'New Mexico',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/H/H001046.jpg',
+    'name': 'Martin Heinrich (D)',
     'twitter': 'https://twitter.com/martinheinrich',
     'facebook': 'https://www.facebook.com/MartinHeinrich'
   },
   {
     'url': 'https://www.lujan.senate.gov/',
+    'area': 'New Mexico',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/L/L000570.jpg',
+    'name': 'Ben Ray Luj谩n (D)',
     'twitter': 'https://twitter.com/SenatorLujan',
     'facebook': 'https://www.facebook.com/SenatorLujan'
   },
   {
     'url': 'http://www.schumer.senate.gov/',
+    'area': 'New York',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/S/S000148.jpg',
+    'name': 'Charles E. Schumer (D)',
     'twitter': 'https://twitter.com/SenSchumer'
   },
   {
-    'url': 'http://www.gillibrand.senate.gov/'
+    'url': 'http://www.gillibrand.senate.gov/',
+    'area': 'New York',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/G/G000555.jpg',
+    'name': 'Kirsten E. Gillibrand (D)',
+    'twitter': 'https://www.twitter.com/gillibrandny',
+    'facebook': 'https://www.facebook.com/SenKirstenGillibrand'
   },
   {
-    'url': 'https://www.burr.senate.gov/'
+    'url': 'https://www.burr.senate.gov/',
+    'area': 'North Carolina',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/B/B001135.jpg',
+    'name': 'Richard Burr (R)',
+    'twitter': 'http://www.twitter.com/SenatorBurr',
+    'facebook': 'http://www.facebook.com/SenatorRichardBurr'
   },
   {
     'url': 'https://www.tillis.senate.gov/',
+    'area': 'North Carolina',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/T/T000476.jpg',
+    'name': 'Thom Tillis (R)',
     'twitter': 'https://twitter.com/senthomtillis',
     'facebook': 'https://www.facebook.com/SenatorThomTillis'
   },
   {
     'url': 'http://www.hoeven.senate.gov/',
+    'area': 'North Dakota',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/H/H001061.jpg',
+    'name': 'John Hoeven (R)',
     'twitter': 'https://twitter.com/SenJohnHoeven',
     'facebook': 'https://www.facebook.com/SenatorJohnHoeven'
   },
   {
     'url': 'https://www.cramer.senate.gov/',
+    'area': 'North Dakota',
+    'img': 'https://www.senate.gov/states/graphics/116/CramerKevin.jpg',
+    'name': 'Kevin Cramer (R)',
     'twitter': 'https://twitter.com/SenKevinCramer',
     'facebook': 'https://www.facebook.com/SenatorKevinCramer'
   },
   {
     'url': 'https://www.brown.senate.gov/',
+    'area': 'Ohio',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/B/B000944.jpg',
+    'name': 'Sherrod Brown (D)',
     'twitter': 'https://twitter.com/SenSherrodBrown',
     'facebook': 'https://www.facebook.com/sensherrodbrown'
   },
   {
     'url': 'https://www.portman.senate.gov/',
+    'area': 'Ohio',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/P/P000449.jpg',
+    'name': 'Rob Portman (R)',
     'twitter': 'https://twitter.com/senrobportman'
   },
   {
     'url': 'http://www.inhofe.senate.gov/',
+    'area': 'Oklahoma',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/I/I000024.jpg',
+    'name': 'James M. Inhofe (R)',
     'twitter': 'https://twitter.com/JimInhofe',
     'facebook': 'https://www.facebook.com/jiminhofe'
   },
   {
     'url': 'http://www.lankford.senate.gov/',
+    'area': 'Oklahoma',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/L/L000575.jpg',
+    'name': 'James Lankford (R)',
     'twitter': 'https://twitter.com/SenatorLankford',
     'facebook': 'https://www.facebook.com/SenatorLankford'
   },
   {
     'url': 'http://www.wyden.senate.gov/',
+    'area': 'Oregon',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/W/W000779.jpg',
+    'name': 'Ron Wyden (D)',
     'twitter': 'https://twitter.com/RonWyden',
     'facebook': 'https://www.facebook.com/senatorronwyden/'
   },
   {
-    'url': 'http://www.merkley.senate.gov/'
+    'url': 'http://www.merkley.senate.gov/',
+    'area': 'Oregon',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/M/M001176.jpg',
+    'name': 'Jeff Merkley (D)',
+    'twitter': 'http://www.twitter.com/SenJeffMerkley',
+    'facebook': 'http://www.facebook.com/jeffmerkley'
   },
   {
     'url': 'http://www.casey.senate.gov/',
+    'area': 'Pennsylvania',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/C/C001070.jpg',
+    'name': 'Robert P. Casey, Jr. (D)',
     'twitter': 'https://twitter.com/SenBobCasey',
     'facebook': 'https://www.facebook.com/SenatorBobCasey'
   },
   {
     'url': 'http://www.toomey.senate.gov/',
+    'area': 'Pennsylvania',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/T/T000461.jpg',
+    'name': 'Patrick J. Toomey (R)',
     'twitter': 'https://twitter.com/sentoomey',
     'facebook': 'https://www.facebook.com/senatortoomey'
   },
   {
-    'url': 'http://www.reed.senate.gov/'
+    'url': 'http://www.reed.senate.gov/',
+    'area': 'Rhode Island',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/R/R000122.jpg',
+    'name': 'Jack Reed (D)'
   },
   {
     'url': 'http://www.whitehouse.senate.gov/',
+    'area': 'Rhode Island',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/W/W000802.jpg',
+    'name': 'Sheldon Whitehouse (D)',
     'twitter': 'https://twitter.com/SenWhitehouse',
     'facebook': 'https://www.facebook.com/SenatorWhitehouse'
   },
   {
-    'url': 'http://www.lgraham.senate.gov/'
+    'url': 'http://www.lgraham.senate.gov/',
+    'area': 'South Carolina',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/G/G000359.jpg',
+    'name': 'Lindsey Graham (R)'
   },
   {
     'url': 'http://www.scott.senate.gov/',
-    'twitter': 'https://twitter.com/SenatorTimScott'
+    'area': 'South Carolina',
+    'img': 'https://www.senate.gov/states/graphics/113/Scott_Tim.jpg',
+    'name': 'Tim Scott (R)',
+    'twitter': 'http://www.twitter.com/SenatorTimScott',
+    'facebook': 'http://www.facebook.com/SenatorTimScott'
   },
   {
     'url': 'http://www.thune.senate.gov/',
-    'twitter': 'https://twitter.com/i/web/status/1561159816646725632',
+    'area': 'South Dakota',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/T/T000250.jpg',
+    'name': 'John Thune (R)',
+    'twitter': 'http://www.twitter.com/senjohnthune',
     'facebook': 'https://www.facebook.com/SenJohnThune/'
   },
   {
     'url': 'http://www.rounds.senate.gov/',
+    'area': 'South Dakota',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/R/R000605.jpg',
+    'name': 'Mike Rounds (R)',
     'twitter': 'https://twitter.com/senatorrounds/',
     'facebook': 'https://www.facebook.com/SenatorMikeRounds'
   },
   {
     'url': 'https://www.blackburn.senate.gov/',
+    'area': 'Tennessee',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/B/B001243.jpg',
+    'name': 'Marsha Blackburn (R)',
     'twitter': 'https://twitter.com/marshablackburn',
     'facebook': 'https://www.facebook.com/marshablackburn/'
   },
   {
     'url': 'https://www.hagerty.senate.gov/',
+    'area': 'Tennessee',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/H/H000601.jpg',
+    'name': 'Bill Hagerty (R)',
     'twitter': 'https://twitter.com/SenatorHagerty',
     'facebook': 'https://www.facebook.com/SenatorBillHagerty'
   },
   {
-    'url': 'http://www.cornyn.senate.gov/'
+    'url': 'http://www.cornyn.senate.gov/',
+    'area': 'Texas',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/C/C001056.jpg',
+    'name': 'John Cornyn (R)'
   },
   {
     'url': 'http://www.cruz.senate.gov/',
+    'area': 'Texas',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/C/C001098.jpg',
+    'name': 'Ted Cruz (R)',
     'twitter': 'https://twitter.com/SenTedCruz',
     'facebook': 'https://www.facebook.com/SenatorTedCruz'
   },
   {
-    'url': 'http://www.lee.senate.gov/'
+    'url': 'http://www.lee.senate.gov/',
+    'area': 'Utah',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/L/L000577.jpg',
+    'name': 'Mike Lee (R)',
+    'twitter': 'http://twitter.com/SenMikeLee',
+    'facebook': 'http://www.facebook.com/senatormikelee'
   },
   {
     'url': 'https://www.romney.senate.gov/',
+    'area': 'Utah',
+    'img': 'https://www.senate.gov/states/graphics/116/RomneyMitt.jpg',
+    'name': 'Mitt Romney (R)',
     'twitter': 'https://twitter.com/senatorromney/',
     'facebook': 'https://www.facebook.com/senatorromney/'
   },
   {
     'url': 'http://www.leahy.senate.gov/',
+    'area': 'Vermont',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/L/L000174.jpg',
+    'name': 'Patrick J. Leahy (D)',
     'twitter': 'https://twitter.com/SenatorLeahy',
     'facebook': 'https://www.facebook.com/SenatorPatrickLeahy'
   },
   {
     'url': 'http://www.sanders.senate.gov/',
-    'twitter': 'https://twitter.com/SenSanders',
+    'area': 'Vermont',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/S/S000033.jpg',
+    'name': 'Bernard Sanders (I)',
+    'twitter': 'https://twitter.com/https://twitter.com/sensanders',
     'facebook': 'https://www.facebook.com/senatorsanders'
   },
   {
     'url': 'http://www.warner.senate.gov/',
-    'twitter': 'https://twitter.com/home?status=Please%20read%3A%20https%3A%2F%2Fwww%2Ewarner%2Esenate%2Egov%2Fpublic%2Findex%2Ecfm%2F2017%2F6%2Fshare%2Dyour%2Dthoughts%2Dwith%2Dsen%2Dwarner',
+    'area': 'Virginia',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/W/W000805.jpg',
+    'name': 'Mark R. Warner (D)',
+    'twitter': 'http://twitter.com/MarkWarner',
     'facebook': 'https://www.facebook.com/MarkRWarner'
   },
   {
     'url': 'http://www.kaine.senate.gov/',
-    'facebook': 'https://www.facebook.com/SenatorKaine'
+    'area': 'Virginia',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/K/K000384.jpg',
+    'name': 'Tim Kaine (D)'
   },
   {
     'url': 'https://www.murray.senate.gov/',
+    'area': 'Washington',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/M/M001111.jpg',
+    'name': 'Patty Murray (D)',
     'twitter': 'https://twitter.com/PattyMurray/'
   },
   {
     'url': 'https://www.cantwell.senate.gov/',
+    'area': 'Washington',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/C/C000127.jpg',
+    'name': 'Maria Cantwell (D)',
+    'twitter': 'http://twitter.com/SenatorCantwell',
     'facebook': 'https://www.facebook.com/senatorcantwell/'
   },
   {
     'url': 'http://www.manchin.senate.gov/',
+    'area': 'West Virginia',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/M/M001183.jpg',
+    'name': 'Joe Manchin, III (D)',
     'twitter': 'https://twitter.com/Sen_JoeManchin',
     'facebook': 'https://www.facebook.com/JoeManchinIII'
   },
   {
     'url': 'http://www.capito.senate.gov/',
+    'area': 'West Virginia',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/C/C001047.jpg',
+    'name': 'Shelley Moore Capito (R)',
     'twitter': 'https://twitter.com/sencapito',
     'facebook': 'https://www.facebook.com/senshelley'
   },
   {
     'url': 'http://www.ronjohnson.senate.gov/',
-    'twitter': 'https://twitter.com/SenRonJohnson?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor',
-    'facebook': 'https://www.facebook.com/senronjohnson/'
+    'area': 'Wisconsin',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/J/J000293.jpg',
+    'name': 'Ron Johnson (R)',
+    'twitter': 'http://twitter.com/SenRonJohnson',
+    'facebook': 'http://www.facebook.com/pages/Senator-Ron-Johnson/186181661410703'
   },
   {
     'url': 'http://www.baldwin.senate.gov/',
+    'area': 'Wisconsin',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/B/B001230.jpg',
+    'name': 'Tammy Baldwin (D)',
     'twitter': 'https://twitter.com/SenatorBaldwin',
     'facebook': 'https://www.facebook.com/senatortammybaldwin'
   },
   {
-    'url': 'https://www.barrasso.senate.gov/'
+    'url': 'https://www.barrasso.senate.gov/',
+    'area': 'Wyoming',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/B/B001261.jpg',
+    'name': 'John Barrasso (R)',
+    'twitter': 'http://www.twitter.com/senjohnbarrasso',
+    'facebook': 'http://www.facebook.com/johnbarrasso'
   },
   {
     'url': 'https://www.lummis.senate.gov/',
+    'area': 'Wyoming',
+    'img': 'https://bioguide.congress.gov/bioguide/photo/L/L000571.jpg',
+    'name': 'Cynthia M. Lummis (R)',
     'twitter': 'https://twitter.com/SenLummis',
     'facebook': 'https://www.facebook.com/sencynthialummis/'
   }

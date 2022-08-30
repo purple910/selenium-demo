@@ -1,7 +1,7 @@
 """
     @Time           : 2022/8/19 10:55
     @Author         : fate
-    @Description    : https://www.senate.gov/states/DE/intro.htm
+    @Description    : https://www.senate.gov/states/DE/intro.htm 获取美国官员的信息
     https://blog.csdn.net/qq_36078992/article/details/110326518
     https://blog.csdn.net/Al_shawn/article/details/101108665
     https://blog.csdn.net/qq_51769081/article/details/121248542
@@ -49,10 +49,11 @@ def get_urls(browser):
         # print(option.text)
         val = option.get_attribute("value")
         if val is not None and val != "":
-            urlList.append(rootUrl + val)
+            urlList.append({'url': rootUrl + val, 'area': option.text})
 
     hrefList = []
-    for url in urlList:
+    for item in urlList:
+        url = item['url']
         browser.get(url)
         time.sleep(1)
 
@@ -61,7 +62,9 @@ def get_urls(browser):
         for people in peoples:
             href = people.find_element(by=By.XPATH, value="./a/img/..").get_attribute("href")
             # print(href)
-            hrefList.append(href)
+            hrefList.append({'url': href, 'area': item['area'],
+                             'img': people.find_element(by=By.XPATH, value="./a/img").get_attribute("src"),
+                             'name': people.find_element(by=By.XPATH, value=".//strong").text})
 
     return hrefList
 
@@ -74,13 +77,14 @@ if __name__ == '__main__':
 
         userList = []
         # social-list
-        for url in urlList:
+        for temp in urlList:
+            url = temp['url']
             browser.get(url)
+            # browser.implicitly_wait(3)
             time.sleep(2)
 
             user = {}
-            user['url'] = url
-            twitter = browser.find_elements(by=By.XPATH, value="//a[contains(@href,'https://twitter.com/')]")
+            twitter = browser.find_elements(by=By.XPATH, value="//a[contains(@href,'twitter.com')]")
             if twitter is not None and len(twitter) > 0:
                 for item in twitter:
                     if item.get_attribute("href").__contains__("?"):
@@ -89,7 +93,7 @@ if __name__ == '__main__':
                         user['twitter'] = item.get_attribute("href")
                         break
 
-            facebook = browser.find_elements(by=By.XPATH, value="//a[contains(@href,'https://www.facebook.com/')]")
+            facebook = browser.find_elements(by=By.XPATH, value="//a[contains(@href,'www.facebook.com')]")
             if facebook is not None and len(facebook) > 0:
                 for item in twitter:
                     if item.get_attribute("href").__contains__("?"):
@@ -98,6 +102,6 @@ if __name__ == '__main__':
                         user['facebook'] = facebook[0].get_attribute("href")
                         break
 
-            userList.append(user)
+            userList.append({**temp, **user})
 
         print(userList)
