@@ -31,8 +31,27 @@
 # a.append("aaa")
 # a = list(set(a))
 # print(len(a))
+import time
+
+import requests
 
 a = 'aa'
 v = 12
 
 print({a, v})
+
+ua = "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:72.0) Gecko/20100101 Firefox/72.0"
+proxies = {
+    "http": "http://192.168.7.96:7890",
+    "https": "http://192.168.7.96:7890",
+}
+
+with requests.get("https://bioguide.congress.gov/bioguide/photo/S/S000320.jpg", headers={'User-Agent': ua},
+                  proxies=proxies) as resp:
+    # print(resp.status_code)
+    resp.raise_for_status()
+    # resp.encoding = res.apparent_encoding
+    # 将图片内容写入
+    with open('{}.jpg'.format(time.time()), 'wb') as f:
+        f.write(resp.content)
+        f.close()

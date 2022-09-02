@@ -171,7 +171,7 @@ def get_info(post_urls, browser):
             article = browser.find_element(by=By.XPATH, value="//article[@tabindex=-1]")
             content = browser.find_element(by=By.XPATH,
                                            value="//article[@tabindex=-1]/div/div/div/div[3]/div[2]/div/div/span").text
-            videos = browser.find_elements(by=By.XPATH, value=".//video")
+            videos = article.find_elements(by=By.XPATH, value=".//video")
             optime = article.find_elements(by=By.XPATH, value=".//a/span")
             images = article.find_elements(by=By.XPATH, value=".//img[@draggable='true']")
 

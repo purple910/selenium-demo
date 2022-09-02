@@ -99,7 +99,7 @@ if __name__ == '__main__':
                     if item.get_attribute("href").__contains__("?"):
                         continue
                     else:
-                        user['facebook'] = facebook[0].get_attribute("href")
+                        user['facebook'] = item.get_attribute("href")
                         break
 
             userList.append({**temp, **user})
